@@ -6,8 +6,8 @@ This case study focuses on the detection of malicious URLs, approached as a mult
 XGBoost
 Light GBM
 Gradient Boosting Machines (GBM)
-Data Overview
-# The dataset used for training and testing consists of 651,191 URLs, distributed across four classes:
+# Data Overview
+The dataset used for training and testing consists of 651,191 URLs, distributed across four classes:
 
 428,103 benign URLs
 96,457 defacement URLs
